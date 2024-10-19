@@ -1,7 +1,0 @@
-python>=3.7
-sphinx
-sphinx_bootstrap_theme
-breathe
-recommonmark
-jinja2
-pytest
