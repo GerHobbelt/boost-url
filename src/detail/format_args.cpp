@@ -279,7 +279,7 @@ parse(format_parse_context& ctx)
     // 0
     if (*it == '0')
     {
-        zeros = *it++;
+			zeros = true; it++;
     }
 
     // width
